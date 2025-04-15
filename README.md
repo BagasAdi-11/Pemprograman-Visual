@@ -3,11 +3,8 @@ Fitur Dasar Aplikasi
 1. Tambah Data Member
 User dapat mengisi:
   => Nama (Teks)
-
   => Umur (NumericUpDown, batas 10–100)
-
   => Jenis Kelamin (ComboBox: Laki-laki / Perempuan)
-
   => Data member akan ditampilkan ke ListBox saat tombol "Tambah Member" diklik.
 
 3. Tampilan Data
@@ -15,7 +12,6 @@ User dapat mengisi:
   Contoh : Bagas - 25 tahun - Laki-laki
 
 4. UI Simpel & Mudah Dikembangkan
-   
   => Desain antarmuka menggunakan WinForms
 
 
