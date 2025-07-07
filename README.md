@@ -33,4 +33,11 @@
 - Database: **MySQL**
 - Library DB: **MySql.Data**
 
+  ---
+
+  ## 👨‍💻 Developer
+
+**Bagas Adi Sasongko**  
+Mahasiswa Teknik Informatika – Universitas Nusantara PGRI Kediri 
+
 
