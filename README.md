@@ -1,5 +1,6 @@
-#🏋️‍♂️ GymKuuu - Aplikasi Manajemen Gym Berbasis Windows Forms
-GymKuuu adalah aplikasi desktop berbasis C# WinForms yang digunakan untuk membantu pengelolaan data pengguna gym, pemilihan paket membership, dan pencatatan transaksi pembayaran. Aplikasi ini cocok digunakan untuk skala kecil-menengah dan mengusung arsitektur MVC (Model-View-Controller) untuk menjaga struktur kode tetap rapi dan terorganisir.# 
+##🏋️‍♂️ GymKuuu - Aplikasi Manajemen Gym Berbasis Windows Forms
+GymKuuu adalah aplikasi desktop berbasis C# WinForms yang digunakan untuk membantu pengelolaan data pengguna gym, pemilihan paket membership, dan pencatatan transaksi pembayaran. Aplikasi ini cocok digunakan untuk skala kecil-menengah dan mengusung arsitektur MVC (Model-View-Controller) untuk menjaga struktur kode tetap rapi dan terorganisir.##
+
 📌 Fitur Utama
 ✅ Form Login & Registrasi
 
