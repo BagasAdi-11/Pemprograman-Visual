@@ -35,7 +35,7 @@
 
   ---
 
-  ## 👨‍💻 Developer
+## 👨‍💻 Developer
 
 **Bagas Adi Sasongko**  
 Mahasiswa Teknik Informatika – Universitas Nusantara PGRI Kediri 
