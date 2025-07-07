@@ -26,3 +26,11 @@
 
 ---
 
+## 🛠️ Teknologi yang Digunakan
+
+- Bahasa Pemrograman: **C# (.NET Framework)**
+- UI: **Windows Forms**
+- Database: **MySQL**
+- Library DB: **MySql.Data**
+
+
