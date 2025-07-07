@@ -1,29 +1,33 @@
-## Membership Card Gym ##
-Fitur Dasar Aplikasi
-1. Tambah Data Member
-User dapat mengisi:
-  => Nama (Teks)
-  => Umur (NumericUpDown, batas 10–100)
-  => Jenis Kelamin (ComboBox: Laki-laki / Perempuan)
-  => Data member akan ditampilkan ke ListBox saat tombol "Tambah Member" diklik.
+#🏋️‍♂️ GymKuuu - Aplikasi Manajemen Gym Berbasis Windows Forms
+GymKuuu adalah aplikasi desktop berbasis C# WinForms yang digunakan untuk membantu pengelolaan data pengguna gym, pemilihan paket membership, dan pencatatan transaksi pembayaran. Aplikasi ini cocok digunakan untuk skala kecil-menengah dan mengusung arsitektur MVC (Model-View-Controller) untuk menjaga struktur kode tetap rapi dan terorganisir.# 
+📌 Fitur Utama
+✅ Form Login & Registrasi
 
-3. Tampilan Data
-  => Data yang sudah diinput akan tampil di ListBox dalam format:
-  Contoh : Bagas - 25 tahun - Laki-laki
+Input data pengguna (nama, tanggal lahir, email, password)
 
-4. UI Simpel & Mudah Dikembangkan
-  => Desain antarmuka menggunakan WinForms
+Validasi login berdasarkan database
+
+✅ Manajemen Membership
+
+Pilihan paket: Basic, Premium, Sultan
+
+Navigasi ke halaman selanjutnya setelah login sukses
+
+✅ Transaksi & Pembayaran
+
+Simpan transaksi (tipe, kategori, jumlah, tanggal, catatan)
+
+Tampilkan data transaksi di DataGridView
+
+Fitur tambah, edit, dan hapus transaksi
+
+✅ Arsitektur MVC
+
+Model: mengelola koneksi database dan entitas data
+
+View: tampilan antarmuka pengguna (Form1–Form4)
 
 
-🔹 MainForm.cs
-Ini adalah tampilan utama aplikasi.
-Terdiri dari komponen berikut:
-=> TextBox untuk Nama
-=> NumericUpDown untuk Umur
-=> ComboBox untuk Jenis Kelamin
-=> Button untuk Tambah
-=> ListBox untuk menampilkan daftar member
-=> Saat tombol diklik, data dari input dimasukkan ke list, lalu ditampilkan di ListBox.
 
 # sertif-dicoding
 1. Bagas Adi Sasongko | BagasAdi-11
